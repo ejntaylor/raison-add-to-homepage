@@ -1,0 +1,18 @@
+[20-Aug-2012 12:50:59 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 3
+[20-Aug-2012 12:51:01 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 3
+[20-Aug-2012 12:54:37 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 1
+[20-Aug-2012 12:54:39 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 1
+[20-Aug-2012 13:00:18 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 1
+[20-Aug-2012 13:00:19 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 1
+[20-Aug-2012 13:00:30 UTC] PHP Warning:  Division by zero in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 5
+[20-Aug-2012 13:00:30 UTC] PHP Warning:  Division by zero in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 5
+[20-Aug-2012 13:00:32 UTC] PHP Warning:  Division by zero in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 5
+[20-Aug-2012 13:00:32 UTC] PHP Warning:  Division by zero in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 5
+[20-Aug-2012 13:00:54 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ',' or ';' in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 5
+[20-Aug-2012 13:00:57 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ',' or ';' in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 5
+[20-Aug-2012 13:01:09 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ',' or ';' in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 4
+[20-Aug-2012 13:01:11 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ',' or ';' in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 4
+[20-Aug-2012 13:01:36 UTC] PHP Warning:  Division by zero in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 4
+[20-Aug-2012 13:01:36 UTC] PHP Warning:  Division by zero in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 4
+[20-Aug-2012 13:01:38 UTC] PHP Warning:  Division by zero in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 4
+[20-Aug-2012 13:01:38 UTC] PHP Warning:  Division by zero in /home/raisonon/public_html/staging2/wp-content/plugins/raison-add-to-homepage/head.php on line 4
